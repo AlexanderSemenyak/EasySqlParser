@@ -1,3 +1,6 @@
+
+orig: https://github.com/stroheim/EasySqlParser
+
 EasySqlParser
 ===
 Library that parses SQL written as so-called `2-Way-SQL`
